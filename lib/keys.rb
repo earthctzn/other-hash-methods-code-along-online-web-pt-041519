@@ -9,5 +9,5 @@ require 'pry'
 # }
 
 def get_the_keys(groceries)
-  goroceries.values
+  goroceries.keys
 end
